@@ -1,0 +1,3 @@
+obj\x86\Debug\_SampleWorkflow.g.cs
+obj\x86\Debug\Workflow1.g.cs
+obj\x86\Debug\SampleWorkflow_Workflow1_BeforeInitializeComponentHelper.cs
